@@ -9,3 +9,5 @@ Contact: You can reach out to me via my GitHub profile for collaboration.
 * **Pairing Partner:** [pavan R prashad] (pava@git.com)
 * **What We Built:** Added a dynamic `greet()` function in `hello.c` to personalize terminal outputs.
 * **Key Takeaway:** GitLens makes line-by-line blame tracking effortless, while Live Share allows real-time collaborative debugging directly within VS Code without merge conflicts.
+## Projects
+* **Portfolio Website:** A personal portfolio built to showcase version control and web development assignments.
